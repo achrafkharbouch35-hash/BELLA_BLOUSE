@@ -21,7 +21,7 @@
    212612345678
 */
 
-const WHATSAPP_NUMBER = "212688403133";
+const WHATSAPP_NUMBER = "212664843900";
 
 
 /* ================= PRODUCTS ================= */
@@ -1110,7 +1110,7 @@ document
 
 
         const url =
-            `https://wa.me/${0688403133}?text=${message}`;
+            `https://wa.me/${0664843900}?text=${message}`;
 
 
         window.open(url, "_blank");
@@ -1123,7 +1123,7 @@ document
 function openWhatsApp(message = "") {
 
     const url =
-        `https://wa.me/${0688403133}?text=${encodeURIComponent(message)}`;
+        `https://wa.me/${0664843900}?text=${encodeURIComponent(message)}`;
 
     window.open(url, "_blank");
 
