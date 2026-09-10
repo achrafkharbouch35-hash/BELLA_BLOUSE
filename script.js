@@ -114,7 +114,62 @@ const products = [
         description: "Gants médicaux adaptés à un usage professionnel.",
         image: "A5.jpg",
         colors: ["#e7f3ef", "#ffffff"]
-    }
+    },
+
+{
+    id: 9,
+    name: "Veste et pantalon Industrielle",
+    category: "Vêtements industriels",
+    price: 349,
+    badge: "NOUVEAU",
+    description: "Veste de travail confortable et résistante pour les professionnels.",
+    image: "A13.jpg",
+    colors: ["#263b3a", "#1d1d1d"]
+},
+
+{
+    id: 10,
+    name: "Tenue de Sécurité",
+    category: "Sécurité & Garde",
+    price: 399,
+    badge: "PRO",
+    description: "Tenue professionnelle conçue pour les agents de sécurité et de garde.",
+    image: "A14.jpg",
+    colors: ["#172f2d", "#1d1d1d", "#ffffff"]
+},
+
+{
+    id: 11,
+    name: "Tenue de Ménage",
+    category: "Ménage & Entretien",
+    price: 299,
+    badge: "POPULAIRE",
+    description: "Tenue légère et confortable pour les professionnels du ménage.",
+    image: "A15.jpg",
+    colors: ["#ffffff", "#dcece8", "#263e3d"]
+},
+
+{
+    id: 12,
+    name: "Polo Entretien",
+    category: "Ménage & Entretien",
+    price: 179,
+    badge: "",
+    description: "Polo professionnel facile à porter et à entretenir.",
+    image: "A16.jpg",
+    colors: ["#ffffff", "#172f2d"]
+},
+
+{
+    id: 13,
+    name: "Tenue Hôtelière",
+    category: "Hôtellerie",
+    price: 349,
+    badge: "NOUVEAU",
+    description: "Tenue élégante et professionnelle pour les métiers de l'hôtellerie.",
+    image: "A17.jpg",
+    colors: ["#ffffff", "#172f2d", "#263e3d"]
+}
 
 ];
 
