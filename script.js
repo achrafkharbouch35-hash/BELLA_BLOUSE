@@ -169,6 +169,61 @@ const products = [
     description: "Tenue élégante et professionnelle pour les métiers de l'hôtellerie.",
     image: "A17.jpg",
     colors: ["#ffffff", "#172f2d", "#263e3d"]
+},
+
+   {
+    id: 14,
+    name: "Veste Chef Pro",
+    category: "Restauration",
+    price: 299,
+    badge: "BEST-SELLER",
+    description: "Veste de cuisine professionnelle confortable et élégante.",
+    image: "A18.jpg",
+    colors: ["#ffffff", "#1d1d1d", "#172f2d"]
+},
+
+{
+    id: 15,
+    name: "Tablier Restaurant",
+    category: "Restauration",
+    price: 149,
+    badge: "",
+    description: "Tablier professionnel pratique pour la cuisine et le service.",
+    image: "A19.jpg",
+    colors: ["#1d1d1d", "#172f2d", "#9a8065"]
+},
+
+{
+    id: 16,
+    name: "Tenue Serveur",
+    category: "Restauration",
+    price: 349,
+    badge: "NOUVEAU",
+    description: "Tenue élégante et confortable pour le personnel de salle.",
+    image: "A20.jpg",
+    colors: ["#1d1d1d", "#ffffff", "#172f2d"]
+},
+
+{
+    id: 17,
+    name: "Pantalon Cuisine",
+    category: "Restauration",
+    price: 199,
+    badge: "",
+    description: "Pantalon professionnel conçu pour les longues journées en cuisine.",
+    image: "A21.jpg",
+    colors: ["#1d1d1d", "#ffffff"]
+},
+
+{
+    id: 18,
+    name: "Gilet Serveur",
+    category: "Restauration",
+    price: 229,
+    badge: "PRO",
+    description: "Gilet élégant pour serveurs, réception et personnel de salle.",
+    image: "A22.jpg",
+    colors: ["#1d1d1d", "#172f2d"]
 }
 
 ];
