@@ -118,7 +118,7 @@ const products = [
 
 {
     id: 9,
-    name: "Veste et pantalon Industrielle",
+    name: "Vestes et pantalons Industriels",
     category: "Vêtements industriels",
     price: 349,
     badge: "NOUVEAU",
